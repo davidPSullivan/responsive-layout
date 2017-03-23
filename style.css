@@ -60,7 +60,9 @@ img {
   background-color: #fff;
   margin: 5px auto;
 }
-
+.name {
+    font-size: 2em;
+}
 
 .main-nav li a {
   font-size: 1.2em;
@@ -89,8 +91,8 @@ nav {
 h2 {
   padding-bottom: 10px;
   text-transform: uppercase;
-  font-size: 1.3em;
-	font-weight: 600;
+  font-size: 1.5em;
+  font-weight: 600;
 }
 
 .main-content {
@@ -109,7 +111,7 @@ h2 {
   padding: 5px 30px 30px;
 }
 
-.secondary-content {
+.final-content {
   text-align: center;
   margin: 10px auto;
   background-color: #fff;
@@ -119,7 +121,7 @@ h2 {
   border-radius: 6px;
   display: inline-block;
   padding: 5px 10px;
-  background: #e67670;
+  background: #94a2af;
   color: white;
   margin: 6px;
 }
@@ -128,7 +130,7 @@ h2 {
   border-radius: 6px;
   display: inline-block;
   padding: 5px 10px;
-  background: #e67670;
+  background: #a1b1c1;
   color: white;
   margin: 6px;
 }
