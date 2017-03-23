@@ -182,7 +182,7 @@ footer li {
 
 
 /* ------------------------------------
-  Media queries
+  Media querie @768
 ------------------------------------ */
 
 @media (min-width: 768px) {
@@ -279,6 +279,8 @@ footer li {
         margin-top: 1em;
         float: right;
         justify-content: space-around;
+        color: darkgoldenrod;
+        font-weight: bold;
     }
 
 	.contact {
@@ -305,6 +307,10 @@ footer li {
 	}
 
 }
+
+/* ------------------------------------
+  Media querie @1024
+------------------------------------ */
 
 @media (min-width: 1024px) {
 
